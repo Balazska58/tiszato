@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+.szoveg{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: justify;
+    margin-top: 25px;
+
+}
+#tisza{
+    font-size: 40px;
+
+}
+#tisza:hover{
+    background-color: rgb(0, 255, 255);
+}
+.kep{
+    width: 160px;
+}
+.kep1{
+    width: 160px;
+}
+.videodiv{
+    text-align: center;
+    margin-top: 100px;
+}
+table{
+    margin:40px
+
+
+
+
+}
+.keret:hover{
+    border:2px solid blue
+}
+.kek:hover{
+    
+    border: 2px solid blue;
+
+    box-shadow: 5px 5px black
+}
